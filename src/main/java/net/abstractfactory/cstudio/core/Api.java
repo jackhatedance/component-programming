@@ -1,5 +1,5 @@
 package net.abstractfactory.cstudio.core;
 
-public class Node {
+public class Api {
 
 }
