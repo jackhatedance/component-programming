@@ -16,7 +16,7 @@
 		<spring.version>4.2.0.RELEASE</spring.version>
 		<spring.security.version>3.2.3.RELEASE</spring.security.version>
 		<jstl.version>1.2</jstl.version>
-		<plum.version>0.2.39</plum.version>
+		<plum.version>0.2.36</plum.version>
 	</properties>
 
 
